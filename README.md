@@ -31,3 +31,6 @@ El desarrollador de la aplicación no se hace responsable por el contenido envia
 
 Screenshots
 -----------
+
+![screenshot_2016-11-28-21-13-23](https://cloud.githubusercontent.com/assets/23587847/20693989/14deaf50-b5b0-11e6-8fcf-3a6a022ff674.png)
+![screenshot_2016-11-28-21-13-33](https://cloud.githubusercontent.com/assets/23587847/20693990/14deefa6-b5b0-11e6-8e69-84e8fb3cb295.png)
