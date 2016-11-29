@@ -1,4 +1,4 @@
-package com.example.alvaro.juegopokemon;
+package co.edu.unitecnologica.pokerpg;
 
 import org.junit.Test;
 
